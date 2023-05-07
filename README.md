@@ -45,4 +45,4 @@ THEN I find a concise, descriptive title
 
 ## Deployed page
 
-Page published at: 
+Page published at: https://hinnenk2.github.io/horiseon-accessibility-code-refractor/#social-media-marketing
